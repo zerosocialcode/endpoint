@@ -1,0 +1,5 @@
+{
+  "endpoints": {
+    "login": { "path": "/api/v3/new-login-url" }
+  }
+}
